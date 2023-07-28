@@ -1,0 +1,1 @@
+classes = pickle.load(open('classes.pkl','rb'))
